@@ -1,6 +1,6 @@
 ## 😁 Hi! I'm <code>James Brainard</code>
 <p></p>
-I am a student studying Data Science, Psychology, and Business Administration as a junior at Creighton University in Omaha, Nebraska. I feel passionate about personal and corporate efficiency and I strive to optimize my life. My career aspirations include software engineering, data analytics, and professorship later down the road.
+I am a student studying Data Science, Psychology, and Business Administration as a junior at Creighton University in Omaha, Nebraska.
 <p></p>
 <ul>
 <li> 🤝 Connect with me on <a href="https://www.linkedin.com/in/james-brainard-64451b29b/" rel="nofollow">LinkedIn</a></li>
