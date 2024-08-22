@@ -58,12 +58,12 @@ I am a student studying Data Science, Psychology, and Business Administration as
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height = "50" width = "50"/>
     <img src="https://cdn-icons-png.flaticon.com/256/5440/5440043.png" height = "50" width = "50"/>
-    <img src="https://pstnet.com/wp-content/uploads/2017/08/EP3.png" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height = "50" width = "50"/>
     
-###### Other
+###### Productivity & Scientific Research
 <div class="container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height = "50" width = "50"/>
+    <img src="https://pstnet.com/wp-content/uploads/2017/08/EP3.png" height = "50" width = "50"/>
 
 
 
