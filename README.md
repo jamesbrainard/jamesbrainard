@@ -50,6 +50,7 @@ I am a student studying Data Science, Psychology, and Business Administration as
 ###### Documentation & Writing
 <div class="container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" height = "50" width = "50"/>
     
 ###### Design & Media Creation
 <div class="container">
