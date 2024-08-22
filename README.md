@@ -54,7 +54,7 @@ I am a student studying Data Science, Psychology, and Business Administration as
     
 ###### Design & Media Creation
 <div class="container">
-    <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" height = "50" width = "50"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.webp?v=1714773017471" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height = "50" width = "50"/>
     <img src="https://cdn-icons-png.flaticon.com/256/5440/5440043.png" height = "50" width = "50"/>
