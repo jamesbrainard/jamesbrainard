@@ -1,6 +1,6 @@
 ## 😁 Hi! I'm <code>James Brainard</code>
 <p></p>
-I am a student studying Data Science, Psychology, and Business Administration as a junior at Creighton University in Omaha, Nebraska.
+I am a student studying Data Science, Psychology, and Business Administration as a senior at Creighton University in Omaha, Nebraska.
 <p></p>
 <ul>
 <li> 🤝 Connect with me on <a href="https://www.linkedin.com/in/james-brainard-64451b29b/" rel="nofollow">LinkedIn</a></li>
@@ -8,35 +8,65 @@ I am a student studying Data Science, Psychology, and Business Administration as
 <li> 📩 Email me at <a href="mailto:jamesbrainard30@gmail.com"<code>jamesbrainard30@gmail.com</code></a></li>
 </ul>
 
-### Here are some of my favorite languages, frameworks, and tools!
 
-#### Languages & Tools
 
-###### Front End
+### My best-known languages, frameworks, and tools:
 
+###### Software
 <div class="container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="50" />
-          
-
-###### Back End
-
-<div class="container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="50" width="50">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "50" width = "50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "50" width = "50" />
-          
-
-###### Design & Development
-
-<div class="container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height = "50" width = "50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    
+###### Development
+<div class="container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="50" />
+    
+###### Data Handling & Analysis
+<div class="container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+    
+###### Artificial Intelligence & Machine Learning
+<div class="container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height = "50" width = "50"/>
+    
+###### Documentation & Writing
+<div class="container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+    
+###### Design & Media Creation
+<div class="container">
+    <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height = "50" width = "50"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/5440/5440043.png" height = "50" width = "50"/>
+    <img src="https://pstnet.com/wp-content/uploads/2017/08/EP3.png" height = "50" width = "50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height = "50" width = "50"/>
+    
+###### Other
+<div class="container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height = "50" width = "50"/>
 
-##### Stats
+
+
+### My GitHub stats:
 <div class="container">
 
 <img src="https://ghchart.rshah.org/jamesbrainard" alt="jamesbrainard's Github chart" />
