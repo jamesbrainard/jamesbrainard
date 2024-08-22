@@ -59,6 +59,8 @@ I am a student studying Data Science, Psychology, and Business Administration as
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height = "50" width = "50"/>
     <img src="https://cdn-icons-png.flaticon.com/256/5440/5440043.png" height = "50" width = "50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height = "50" width = "50"/>
+    <img src="https://i.pinimg.com/474x/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.jpg" height = "50" width = "50"/>
+    <img src="https://i.pinimg.com/originals/8e/f4/1b/8ef41ba90805d64328569fef7e5a1439.png" height = "50" width = "50"/>
     
 ###### Productivity & Scientific Research
 <div class="container">
