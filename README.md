@@ -78,8 +78,6 @@ I am a student studying Data Science, Psychology, and Business Administration as
           
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesbrainard&show_icons=true&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbrainard)](https://github.com/jamesbrainard/github-readme-stats)
-
 
 
 <!--
